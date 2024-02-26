@@ -5,15 +5,6 @@
     caliculate=(obj)=>{
         for(let index = 1;index <= 10;index++){
             index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
-            index + obj;
             window.alert(index+'足した結果は'　+　[index + obj]+ 'です。');
     
         };
